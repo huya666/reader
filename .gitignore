@@ -8,6 +8,7 @@ _roadhog-api-doc
 
 # production
 /dist
+/build
 /.vscode
 
 # misc
@@ -27,10 +28,6 @@ package-lock.json
 *.log
 functions/*
 .temp/**
-
-# umi
-.umi
-.umi-production
 
 # screenshot
 screenshot
